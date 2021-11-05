@@ -1,8 +1,8 @@
 ## Some modifications
 Modify the encode_text() function to add a 'local' parameter,
-if local=True, return all token representations,
-if local=False, only return [EOS] token representations,
-
+- if local=True, return all token representations,   
+- if local=False, only return [EOS] token representations,   
+![CLIP](CLIP_modify.png)
 
 # CLIP
 
